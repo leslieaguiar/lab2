@@ -4,7 +4,7 @@ $(document).ready(function() {
 
 function initializePage() {
     $('#testjs').click(function(e) {
-            $('.jumbotron h1').text("Javascript is connected");
+            $('.jumbotron h1').text("Redirecting");
             });
     $("a.thumbnail").click(projectClick);
 }
@@ -14,7 +14,7 @@ function projectClick(e) { 
     e.preventDefault();
     // In an event handler, $(this) refers to      
     // the object that triggered the event      
-    $(this).css("background-color", "#7fff00");
+    $(this).css("background-color", "#000000");
 }
 
 

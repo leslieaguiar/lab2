@@ -3,9 +3,18 @@ p {
      font-variant: small-caps;
 }
 
+
 .project p {
      font-variant: small-caps;
+     margin-left: 150px;
+     margin-right: 10px;
 
+
+}
+
+.thumbnail {
+     width:400px;
+     height:400px;
 }
 
 #project1 {
