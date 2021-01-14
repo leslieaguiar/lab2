@@ -1,3 +1,16 @@
+
+p {
+     font-variant: small-caps;
+}
+
+.project p {
+     font-variant: small-caps;
+
+}
+
+#project1 {
+     font-variant: small-caps;
+}
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
